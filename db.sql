@@ -1,0 +1,6 @@
+CREATE TABLE login365 (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    correo VARCHAR(255) NOT NULL,
+    token TEXT NOT NULL,
+    created_at DATETIME DEFAULT GETDATE()
+);
