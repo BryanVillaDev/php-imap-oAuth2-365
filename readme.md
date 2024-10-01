@@ -14,5 +14,5 @@ Este proyecto permite a los usuarios autenticarse con **Microsoft OAuth2** y alm
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/oauth2-microsoft-sqlserver.git
-cd oauth2-microsoft-sqlserver
+git clone https://github.com/BryanVillaDev/php-imap-oAuth2-365.git
+cd php-imap-oAuth2-365
